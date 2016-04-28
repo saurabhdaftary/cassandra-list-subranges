@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.chaordic</groupId>
   <artifactId>cassandra-list-subtranges</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   
   <dependencies>
   <dependency>
     <groupId>org.apache.cassandra</groupId>
     <artifactId>cassandra-all</artifactId>
-    <version>1.2.16</version>
+    <version>2.2.5</version>
   </dependency>
   <dependency>
       <groupId>commons-cli</groupId>
